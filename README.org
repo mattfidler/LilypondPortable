@@ -1,0 +1,14 @@
+#+TITLE: LilyPond Portable
+#+AUTHOR: Matthew L. Fidler
+* Introduction
+The [[lilypond.org][LilyPond website]] describes LilyPond as "a music
+engraving program, devoted to producing the highest-quality sheet
+music possible. It brings the aesthetics of traditionally engraved
+music to computer printouts" 
+* Using this source to create a Portable LilyPond
+- Download the Zip file
+- Install LilyPond
+- Copy the LilyPond directory to the =App= subdirectory
+- You are done!
+
+# LocalWords:  LilyPond
